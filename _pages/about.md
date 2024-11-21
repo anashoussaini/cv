@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='mcgill.ca'>McGill</a>. Address. Contacts. Motto. Etc.
+subtitle: <a href='#'>McGill</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
