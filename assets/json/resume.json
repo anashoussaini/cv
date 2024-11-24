@@ -31,10 +31,8 @@
       "endDate": "2025-05-01",
       "summary": "Using ML in Mining",
       "highlights": ["AI in Mining"]
-    }
-  ],
-  "volunteer": [
-    {
+    },
+       {
       "name": "Product Manager Intern",
       "position": "Product Manager Intern",
       "url": "",
@@ -45,6 +43,10 @@
         "Collaborated with law enforcement and utility companies to deploy smart city monitors.",
         "Managed Jira tickets and translated client requirements into actionable tasks."
     }
+    
+  ],
+  "volunteer": [
+ 
   ],
   "education": [
     {
